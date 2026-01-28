@@ -1,0 +1,67 @@
+.venv/
+output.txt
+__pycache__/
+.vscode/
+*.pyc
+.env
+.idea/
+.DS_Store
+logs/
+node_modules/
+dist/
+build/
+*.log
+*.sqlite3
+*.egg-info/
+coverage/
+htmlcov/
+.tox/
+
+# Ignore environment variables file
+.envrc
+# Ignore system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.NTUSER.DAT
+*.swp
+*.swo
+*.bak
+*.tmp
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Ignore Python virtual environment folders
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+# Ignore test output
+test_output/
+.coverage
+.nox/
+.pytest_cache/
+# Ignore IDE specific files
+.idea/
+.project
+.metadata/
+*.launch
+.settings/
+.vscode/
+*.code-workspace
+# Ignore distribution/build folders
+dist/
+build/
+eggs/
+parts/
+bin/
+
+var/
+sdist/
+
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
